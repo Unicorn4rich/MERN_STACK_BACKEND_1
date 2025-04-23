@@ -1,0 +1,20 @@
+{
+  "name": "class_6_mongodb_connect_with_node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1"
+  }
+}
