@@ -1,6 +1,6 @@
 import express from 'express'; // Expresses import
 let app = express();
-app.use(express.json()) // app ke andar initilize kar diyya.
+app.use(express.json()) // user ne jo data bheja hai wo agr json mejn hao to usy req.body mein rakh do.
 
 
 // creating route
